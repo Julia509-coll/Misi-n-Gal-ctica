@@ -1,4 +1,4 @@
-# Misi-n-Gal-ctica
+# Misión_Galáctica
 Fundamentos Python
 # 🚀 Proyecto: Sistema de Entrenamiento de Tripulación (Python)
 
